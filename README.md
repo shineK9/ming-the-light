@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ming
+### Hi there 👋 I'm Ming, a frontend developer
 
 - 🔭 I’m focusing on web technology
 - ⛏️ I'm using programming language JavaScript/c#/rust
